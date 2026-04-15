@@ -37,6 +37,14 @@ The dataset includes:
 - IMDB ratings remained relatively stable during early seasons, then declined in later seasons
 - Some episodes with low ratings still had high viewership, indicating loyal audiences
 
+## View the Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYjU1YzRlMmEtMGFkNS00MTVkLTg2M2YtMDA2ZDM3MGYxYjcxIiwidCI6ImMyZjEyZmQwLWY5MGMtNDlmMy05ODcxLTAwMmYwODY4MzljMSIsImMiOjZ9
+
+**Features**
+- Line graphs showing season-wise rating and viewership trends
+- Interactive drill-down to explore episodes in detail
+- KPI cards to summarize total viewership 
+
 
 ## Future Improvements
 
